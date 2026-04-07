@@ -4,7 +4,7 @@
 # Eu!
 
 Me chamo Daisuke e tenho 17 anos de idade.<br>
-Sou muito curioso e gosto<br>
+Sou muito curioso e gosto de explorar o máximo de conceitos possíveis que me forem apresentados(mesmo que minimamente)<br>
 
 Studando Desenvolvimento de Sistemas no [Instituto federal de São Paulo - Campus São Paulo](https://spo.ifsp.edu.br) (2024-2027)<br>
 
